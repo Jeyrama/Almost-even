@@ -38,3 +38,5 @@ function splitInteger(num, parts) {
 
   return result;
 }
+
+// or
